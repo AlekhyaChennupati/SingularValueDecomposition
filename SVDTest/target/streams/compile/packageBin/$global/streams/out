@@ -1,0 +1,25 @@
+[0m[[0minfo[0m] [0mPackaging /Users/Alya/Documents/spark-1.2.1-bin-hadoop2.4/sparkExperiments/SVDTest/target/scala-2.10/simple-project_2.10-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	ImageReading$$anonfun$main$4.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Alya/Documents/spark-1.2.1-bin-hadoop2.4/sparkExperiments/SVDTest/target/scala-2.10/classes/ImageReading$$anonfun$main$4.class[0m
+[0m[[0mdebug[0m] [0m	ImageReading$$anonfun$main$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Alya/Documents/spark-1.2.1-bin-hadoop2.4/sparkExperiments/SVDTest/target/scala-2.10/classes/ImageReading$$anonfun$main$2.class[0m
+[0m[[0mdebug[0m] [0m	ImageReading$$anonfun$main$5.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Alya/Documents/spark-1.2.1-bin-hadoop2.4/sparkExperiments/SVDTest/target/scala-2.10/classes/ImageReading$$anonfun$main$5.class[0m
+[0m[[0mdebug[0m] [0m	ImageReading.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Alya/Documents/spark-1.2.1-bin-hadoop2.4/sparkExperiments/SVDTest/target/scala-2.10/classes/ImageReading.class[0m
+[0m[[0mdebug[0m] [0m	ImageReading$$anonfun$ImageReading$$noSVDfunc$1$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Alya/Documents/spark-1.2.1-bin-hadoop2.4/sparkExperiments/SVDTest/target/scala-2.10/classes/ImageReading$$anonfun$ImageReading$$noSVDfunc$1$1.class[0m
+[0m[[0mdebug[0m] [0m	ImageReading$$anonfun$ImageReading$$computeSVDfunc_1$1$1$$anonfun$apply$mcVI$sp$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Alya/Documents/spark-1.2.1-bin-hadoop2.4/sparkExperiments/SVDTest/target/scala-2.10/classes/ImageReading$$anonfun$ImageReading$$computeSVDfunc_1$1$1$$anonfun$apply$mcVI$sp$1.class[0m
+[0m[[0mdebug[0m] [0m	ImageReading$$anonfun$ImageReading$$noSVDfunc$1$1$$anonfun$apply$mcVI$sp$2.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Alya/Documents/spark-1.2.1-bin-hadoop2.4/sparkExperiments/SVDTest/target/scala-2.10/classes/ImageReading$$anonfun$ImageReading$$noSVDfunc$1$1$$anonfun$apply$mcVI$sp$2.class[0m
+[0m[[0mdebug[0m] [0m	ImageReading$$anonfun$ImageReading$$computeSVDfunc_1$1$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Alya/Documents/spark-1.2.1-bin-hadoop2.4/sparkExperiments/SVDTest/target/scala-2.10/classes/ImageReading$$anonfun$ImageReading$$computeSVDfunc_1$1$1.class[0m
+[0m[[0mdebug[0m] [0m	ImageReading$$anonfun$main$3.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Alya/Documents/spark-1.2.1-bin-hadoop2.4/sparkExperiments/SVDTest/target/scala-2.10/classes/ImageReading$$anonfun$main$3.class[0m
+[0m[[0mdebug[0m] [0m	ImageReading$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Alya/Documents/spark-1.2.1-bin-hadoop2.4/sparkExperiments/SVDTest/target/scala-2.10/classes/ImageReading$.class[0m
+[0m[[0mdebug[0m] [0m	ImageReading$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/Alya/Documents/spark-1.2.1-bin-hadoop2.4/sparkExperiments/SVDTest/target/scala-2.10/classes/ImageReading$$anonfun$main$1.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m

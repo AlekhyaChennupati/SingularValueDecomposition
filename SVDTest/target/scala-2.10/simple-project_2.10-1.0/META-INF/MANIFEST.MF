@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Simple Project
+Implementation-Version: 1.0
+Specification-Vendor: simple-project
+Specification-Title: Simple Project
+Implementation-Vendor-Id: simple-project
+Specification-Version: 1.0
+Implementation-Vendor: simple-project
+Main-Class: ImageReading
+
